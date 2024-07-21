@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/SmritiManikand/React-Quiz/static/css/main.3857b3d6.css",
-    "main.js": "/SmritiManikand/React-Quiz/static/js/main.8c6d5337.js",
+    "main.js": "/SmritiManikand/React-Quiz/static/js/main.7670c262.js",
+    "static/js/453.2b0627e5.chunk.js": "/SmritiManikand/React-Quiz/static/js/453.2b0627e5.chunk.js",
     "index.html": "/SmritiManikand/React-Quiz/index.html",
     "main.3857b3d6.css.map": "/SmritiManikand/React-Quiz/static/css/main.3857b3d6.css.map",
-    "main.8c6d5337.js.map": "/SmritiManikand/React-Quiz/static/js/main.8c6d5337.js.map"
+    "main.7670c262.js.map": "/SmritiManikand/React-Quiz/static/js/main.7670c262.js.map",
+    "453.2b0627e5.chunk.js.map": "/SmritiManikand/React-Quiz/static/js/453.2b0627e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3857b3d6.css",
-    "static/js/main.8c6d5337.js"
+    "static/js/main.7670c262.js"
   ]
 }
