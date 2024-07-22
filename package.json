@@ -1,6 +1,6 @@
 {
 
- 
+  "homepage": "https://SmritiManikand.github.io/React-Quiz",
 
   "name": "quiz",
 
@@ -33,6 +33,10 @@
   "scripts": {
 
     "start": "react-scripts start",
+
+    "predeploy": "npm run build",
+
+    "deploy": "gh-pages -d build",
 
     "build": "react-scripts build",
 
