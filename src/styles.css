@@ -1,12 +1,12 @@
 body {
-    margin: 0;
-    padding: 0;
-    background: url('/public/bg.jpeg') no-repeat center center fixed;
-    background-size: cover;
-    font-family: Arial, sans-serif;
-    color: #fff;
-  }
-  
+  margin: 0;
+  padding: 0;
+  background: url('%PUBLIC_URL%/bg.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  color: #fff;
+}
+
   .container {
     text-align: center;
     padding: 20px;
